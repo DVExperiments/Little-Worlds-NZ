@@ -1,0 +1,36 @@
+{
+  "title": "Little Worlds",
+  "tagline": "A tiny living ecosystem with a life of its own.",
+  "description": "Little Worlds is an interactive, New Zealand-inspired ecosystem sandbox. Observe kiwi, wētā, rats, stoats and human settlers as weather, vegetation, predator–prey relationships and human decisions reshape a miniature world.",
+  "category": "Simulations",
+  "platform": "Browser / JavaScript",
+  "year": "2026",
+  "overview": [
+    "Inspired by the idea of a digital terrarium, Little Worlds lets you watch a small ecosystem develop over time or intervene to see what happens next. Animals search for resources, reproduce and interact while plants, soil, weather and fungi shape the conditions around them.",
+    "The simulation draws on familiar Aotearoa New Zealand species and ecological challenges. Introduced predators, human settlements and conservation efforts can affect the balance of the world, turning small decisions into wider consequences.",
+    "The browser edition is a self-contained sandbox: each visitor explores their own ecosystem, with local saving and JSON import/export. It is not yet a single shared, continuously running world."
+  ],
+  "highlights": [
+    "An evolving ecosystem with kiwi, wētā, rats, stoats and human settlers",
+    "Changing weather, vegetation, soil conditions and interconnected food webs",
+    "Creature inspection, including individual details and illustrated species cards",
+    "Environmental controls and conservation interventions",
+    "Human settlements and their effects on surrounding habitats",
+    "Population and ecosystem history charts, an event journal and clickable ecological alerts",
+    "Resizable panels, a collapsible dashboard and local saves with JSON import/export"
+  ],
+  "tags": [
+    "Ecosystem",
+    "Simulation",
+    "Aotearoa New Zealand",
+    "Wildlife",
+    "Conservation",
+    "Emergent Systems",
+    "JavaScript",
+    "Browser"
+  ],
+  "featured": true,
+  "visible": true,
+  "liveUrl": "https://dvexperiments.github.io/Little-Worlds-NZ/",
+  "notice": "Experimental educational sandbox, not a scientifically calibrated ecological model. Each visitor has a separate browser-based world."
+}
